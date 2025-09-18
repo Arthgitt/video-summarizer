@@ -1,0 +1,6 @@
+gradio
+yt-dlp
+ffmpeg-python
+transformers
+sentencepiece
+openai-whisper
