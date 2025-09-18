@@ -10,5 +10,5 @@ To run CLI pipeline:
 ./run_pipeline.sh "https://youtube.com/..."
 
 Notes:
-- We use `whisper` (tiny.en) for local transcription and `sshleifer/distilbart-cnn-12-6` for summarization.
+- I use `whisper` (tiny.en) for local transcription and `sshleifer/distilbart-cnn-12-6` for summarization.
 - To deploy: push this repo to GitHub and create a Hugging Face Space (Gradio) from this repository. Add `apt.txt` to install ffmpeg on Spaces.
