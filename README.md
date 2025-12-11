@@ -1,7 +1,8 @@
 # Video Summarizer (download → transcribe → summarize)
 
 ### Try it now - [Checkout on Huggingface](huggingface.co/spaces/ArthPat/video-summarizer)
- 
+Note: This project need to store data of transcript and audio file, and Huggingface free space is limited so it will through error if all the storage are used. If so, Please Try it locally.. 
+
 Quick start:
 1. Install system deps: ffmpeg, Python3, git
 2. Run `./run_local.sh` (mac/linux) to create venv and install Python packages
