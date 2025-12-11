@@ -3,7 +3,7 @@
 ### Try it now - [Checkout on Huggingface](huggingface.co/spaces/ArthPat/video-summarizer)
 Note: This project need to store data of transcript and audio file, and Huggingface free space is limited so it will through error if all the storage are used. If so, Please Try it locally.. 
 
-Video Summarizer is an open-source Python application that lets users download, transcribe, and generate summaries of video content (e.g., YouTube videos or local video/audio files). It uses automatic transcription tools and natural language summarization models to convert spoken content into concise text summaries, making video content easier to read, reference, and analyze without watching the full video.
+Video Summarizer is an Python application that lets download, transcribe, and generate summaries of video content (e.g., YouTube videos or local video/audio files). It uses automatic transcription tools and natural language summarization models to convert spoken content into concise text summaries, making video content easier to read, reference, and analyze without watching the full video.
 
  - Video download and audio extraction — automatically retrieves video or audio files from a given video source.
 
